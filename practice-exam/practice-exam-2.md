@@ -289,7 +289,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: C
 
     Explanation:
     - AWS Compliance enables customers to establish and operate in an AWS security control environment The shared responsibility model is part of AWS Compliance
@@ -800,7 +800,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CE
+    Correct Answer: BE
 
     Explanation:
     - AWS Training and Certification builds your competence, confidence, and credibility through practical cloud skills that help you innovate and build your future.
